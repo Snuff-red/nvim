@@ -1,0 +1,16 @@
+{
+    "workspace.library": [
+        "/Users/snuffred/.config/nvim",
+        "/Users/snuffred/.local/share/nvim/lazy/lazy.nvim",
+        "/Users/snuffred/.local/share/nvim/lazy/mason.nvim",
+        "/Users/snuffred/.local/share/nvim/lazy/mason-lspconfig.nvim",
+        "/Users/snuffred/.local/share/nvim/lazy/nvim-lspconfig",
+        "/Users/snuffred/.local/share/nvim/lazy/nightfox.nvim",
+        "/Users/snuffred/.local/share/nvim/lazy/which-key.nvim",
+        "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime",
+        "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime/pack/dist/opt/matchit",
+        "/opt/homebrew/Cellar/neovim/0.9.0/lib/nvim",
+        "/Users/snuffred/.local/state/nvim/lazy/readme",
+        "${3rd}/luassert/library"
+    ]
+}
